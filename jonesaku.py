@@ -24,7 +24,7 @@ def clear():
     os.system('clear')
 def baner():    
     print(f'''\n    __  ___      ____  _ ____  ______\n   /  |/  /_  __/ / /_(_) __ )/ ____/ \n  / /|_/ / / / / / __/ / __  / /_    \n / /  / / /_/ / / /_/ / /_/ / __/    \n/_/  /_/\__,_/_/\__/_/_____/_/        ''')
-    print('' + Back.RED + Fore.WHITE + '            ALVINz             \033[00m                 ')
+    print('' + Back.RED + Fore.WHITE + '            jonesaku             \033[00m                 ')
     print()
 
 def masuk():
